@@ -1,0 +1,5 @@
+OK Percorrer de ZERO  até o número de alunos.
+
+OK - se o número for par, escreva 'par' e o número correspondente.
+OK - se o número for ímpar, escreva 'ímpar' e o número correspondente.
+OK - se o número for ZERO, escreva "ZERO".
